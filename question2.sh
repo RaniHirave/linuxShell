@@ -1,13 +1,18 @@
 #!/usr/bin/expect
 
-## Expect Parameters
-set timeout 20
-set successMsg "Status: Success"
-set failureMsg "Status: Failure"
+expect "'nmap'"
 
-apt-get install nmap
-expect_after eof {exit 0}
+expect "'nfs-common'"
 
-set timeout 10
+sudo apt-get install 'nmap' && sudo apt-get install 'nfs-common'
 
-apt install nfs-common
+which 'nmap'
+
+which 'nfs-common'
+
+
+
+
+
+
+
