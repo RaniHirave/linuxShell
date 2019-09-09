@@ -1,6 +1,6 @@
 Host name of machine is: 127.0.1.1
-Machine is running since: 07:13:17 up 11:13, 1 user, load average: 0.27, 0.46, 0.51
-Memory Usage: 2417/7839MB (30.83%)
-Total memory (used+free): 2417 + 2130 = 7839
-Disk Usage: 25/99GB (27%)
-CPU Load: 0.27
+Machine is running since: 10:18:02 up 3 days, 19:14, 1 user, load average: 0.35, 0.20, 0.20
+Memory Usage: 8046/15923MB (50.53%)
+Total memory (used+free): 8046 + 2388 = 15923
+Disk Usage: 91/234GB (42%)
+CPU Load: 0.35
